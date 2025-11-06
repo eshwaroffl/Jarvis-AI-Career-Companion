@@ -5,7 +5,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **Live Link:** [https://jarvis-careercompanion.vercel.app](https://ai-career-companion.vercel.app)
+🔗 **Live Link:** [https://jarvis-careercompanion.vercel.app](https://jarvis-careercompanion.vercel.app)
 *(Replace with your actual deployed URL if different)*
 
 
