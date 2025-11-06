@@ -2,14 +2,11 @@
 
 **AI Career Companion** is an AI-powered web application built with **Next.js** that helps users explore, plan, and enhance their career paths using intelligent insights and personalized recommendations. It assists job seekers and professionals in improving their resumes, understanding market trends, and identifying skill gaps.
 
----
 
 ## 🚀 Live Demo
 
-🔗 **Live Link:** [https://jarvis-careercompanion.vercel.app](https://ai-career-companion.vercel.app)
-*(Replace with your actual deployed URL if different)*
+🔗 **Live Link:** [https://jarvis-careercompanion.vercel.app](https://jarvis-careercompanion.vercel.app)
 
----
 
 ## 🧩 Features
 
@@ -20,7 +17,6 @@
 - 🔒 **Secure Authentication** – Login and manage your profile safely.  
 - 🌙 **Dark Mode UI** – Modern, responsive, and user-friendly interface.
 
----
 
 ## 🛠️ Tech Stack
 
