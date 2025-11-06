@@ -6,8 +6,6 @@
 ## 🚀 Live Demo
 
 🔗 **Live Link:** [https://jarvis-careercompanion.vercel.app](https://jarvis-careercompanion.vercel.app)
-*(Replace with your actual deployed URL if different)*
-
 
 
 ## 🧩 Features
@@ -18,7 +16,6 @@
 - 💼 **Skill Analysis** – Identify skill gaps for your dream role.  
 - 🔒 **Secure Authentication** – Login and manage your profile safely.  
 - 🌙 **Dark Mode UI** – Modern, responsive, and user-friendly interface.
-
 
 
 ## 🛠️ Tech Stack
