@@ -47,10 +47,16 @@ const HeroSection = () => {
             </Button>
           </Link>
 
-          {/*  
-          <Link href="https://www.youtube.com/roadsidecoder">
+          <Link href="https://careercompanion.vercel.app/">
+            <Button size="lg" className="px-8">
+              AI Assistant
+            </Button>
+          </Link>
+
+           {/*  
+          <Link href="https://careercompanion.vercel.app/">
             <Button size="lg" variant="outline" className="px-8">
-              
+              Career
             </Button>
           </Link>
           */}
